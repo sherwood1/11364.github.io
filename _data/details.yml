@@ -114,3 +114,10 @@
   description: "Recurrent Neural Networks are a type of Seq2Seq network that takes in a sequence of inputs and outputs a sequence. The result from one cell is passed back to itself and the cell may or may not output a value. LSTMs are an improvement on this model that use information gates to regulate the flow of information and preserve a cell state."
   presenter: "Devansh Kukreja & Eric Nie"
   filename: "lstm"
+
+- title: "cnn1"
+  description: "Convolution Neural Networks are a type of network make assumption that the input data are images. This type of network is very effective for image processing and classification because it capture and extract in multiple layers. I am presenting with Bill Sun and Rui Wang, and my part of the presentation is focused on the CNN experiment on the Mnist data set"
+  Presenter: "Xiangguang Zheng"
+  filename: "cnn_xiangguz"
+
+
